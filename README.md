@@ -1,3 +1,5 @@
+# USING AI CLAUDE
+
 # VNStock Dashboard v4
 
 Dashboard chứng khoán Việt Nam dùng **vnstock v4** — chạy local trên VS Code.
